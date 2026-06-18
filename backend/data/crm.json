@@ -1,0 +1,356 @@
+{
+  "customers": [
+    {
+      "customer_id": "CUST-001",
+      "name": "Sarah Chen",
+      "email": "sarah.chen@email.com",
+      "phone": "+1-555-0101",
+      "loyalty_tier": "platinum",
+      "refund_count_90d": 0,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10001",
+          "product": "Wireless Noise-Canceling Headphones",
+          "category": "electronics",
+          "amount": 249.99,
+          "delivery_date": "2026-05-20",
+          "final_sale": false,
+          "condition_on_delivery": "sealed",
+          "refund_status": null,
+          "digital": false
+        },
+        {
+          "order_id": "ORD-10002",
+          "product": "USB-C Charging Cable",
+          "category": "electronics",
+          "amount": 19.99,
+          "delivery_date": "2026-06-01",
+          "final_sale": false,
+          "condition_on_delivery": "sealed",
+          "refund_status": null,
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-002",
+      "name": "Marcus Johnson",
+      "email": "marcus.j@email.com",
+      "phone": "+1-555-0102",
+      "loyalty_tier": "standard",
+      "refund_count_90d": 2,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10003",
+          "product": "Running Shoes Pro",
+          "category": "apparel",
+          "amount": 89.99,
+          "delivery_date": "2026-05-25",
+          "final_sale": false,
+          "condition_on_delivery": "tags_attached",
+          "refund_status": null,
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-003",
+      "name": "Emily Rodriguez",
+      "email": "emily.r@email.com",
+      "phone": "+1-555-0103",
+      "loyalty_tier": "gold",
+      "refund_count_90d": 1,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10004",
+          "product": "Smart Home Hub",
+          "category": "electronics",
+          "amount": 129.0,
+          "delivery_date": "2026-04-10",
+          "final_sale": false,
+          "condition_on_delivery": "opened",
+          "refund_status": null,
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-004",
+      "name": "David Kim",
+      "email": "david.kim@email.com",
+      "phone": "+1-555-0104",
+      "loyalty_tier": "standard",
+      "refund_count_90d": 3,
+      "refund_abuse_flag": true,
+      "orders": [
+        {
+          "order_id": "ORD-10005",
+          "product": "Bluetooth Speaker Mini",
+          "category": "electronics",
+          "amount": 45.0,
+          "delivery_date": "2026-06-10",
+          "final_sale": false,
+          "condition_on_delivery": "sealed",
+          "refund_status": null,
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-005",
+      "name": "Jessica Williams",
+      "email": "jessica.w@email.com",
+      "phone": "+1-555-0105",
+      "loyalty_tier": "platinum",
+      "refund_count_90d": 0,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10006",
+          "product": "Premium Yoga Mat",
+          "category": "apparel",
+          "amount": 34.99,
+          "delivery_date": "2026-05-28",
+          "final_sale": false,
+          "condition_on_delivery": "tags_attached",
+          "refund_status": null,
+          "digital": false
+        },
+        {
+          "order_id": "ORD-10007",
+          "product": "E-Book: Mindful Living",
+          "category": "digital",
+          "amount": 14.99,
+          "delivery_date": "2026-05-15",
+          "final_sale": false,
+          "condition_on_delivery": "accessed",
+          "refund_status": null,
+          "digital": true
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-006",
+      "name": "Robert Taylor",
+      "email": "robert.t@email.com",
+      "phone": "+1-555-0106",
+      "loyalty_tier": "standard",
+      "refund_count_90d": 0,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10008",
+          "product": "Clearance Winter Jacket",
+          "category": "apparel",
+          "amount": 59.99,
+          "delivery_date": "2026-05-01",
+          "final_sale": true,
+          "condition_on_delivery": "tags_attached",
+          "refund_status": null,
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-007",
+      "name": "Amanda Foster",
+      "email": "amanda.f@email.com",
+      "phone": "+1-555-0107",
+      "loyalty_tier": "gold",
+      "refund_count_90d": 0,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10009",
+          "product": "Stainless Steel Cookware Set",
+          "category": "home_kitchen",
+          "amount": 189.99,
+          "delivery_date": "2026-05-22",
+          "final_sale": false,
+          "condition_on_delivery": "sealed",
+          "refund_status": null,
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-008",
+      "name": "James Wilson",
+      "email": "james.w@email.com",
+      "phone": "+1-555-0108",
+      "loyalty_tier": "standard",
+      "refund_count_90d": 1,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10010",
+          "product": "Gaming Mouse RGB",
+          "category": "electronics",
+          "amount": 79.99,
+          "delivery_date": "2026-03-01",
+          "final_sale": false,
+          "condition_on_delivery": "sealed",
+          "refund_status": null,
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-009",
+      "name": "Lisa Park",
+      "email": "lisa.park@email.com",
+      "phone": "+1-555-0109",
+      "loyalty_tier": "platinum",
+      "refund_count_90d": 0,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10011",
+          "product": "4K Webcam Pro",
+          "category": "electronics",
+          "amount": 299.99,
+          "delivery_date": "2026-06-05",
+          "final_sale": false,
+          "condition_on_delivery": "sealed",
+          "refund_status": null,
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-010",
+      "name": "Michael Brown",
+      "email": "michael.b@email.com",
+      "phone": "+1-555-0110",
+      "loyalty_tier": "standard",
+      "refund_count_90d": 1,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10012",
+          "product": "Organic Cotton T-Shirt",
+          "category": "apparel",
+          "amount": 22.0,
+          "delivery_date": "2026-06-12",
+          "final_sale": false,
+          "condition_on_delivery": "tags_attached",
+          "refund_status": "approved",
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-011",
+      "name": "Nicole Adams",
+      "email": "nicole.a@email.com",
+      "phone": "+1-555-0111",
+      "loyalty_tier": "gold",
+      "refund_count_90d": 2,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10013",
+          "product": "Air Purifier HEPA",
+          "category": "home_kitchen",
+          "amount": 159.0,
+          "delivery_date": "2026-05-18",
+          "final_sale": false,
+          "condition_on_delivery": "opened",
+          "refund_status": "approved",
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-012",
+      "name": "Chris Martinez",
+      "email": "chris.m@email.com",
+      "phone": "+1-555-0112",
+      "loyalty_tier": "standard",
+      "refund_count_90d": 1,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10014",
+          "product": "Portable SSD 1TB",
+          "category": "electronics",
+          "amount": 119.99,
+          "delivery_date": "2026-06-08",
+          "final_sale": false,
+          "condition_on_delivery": "sealed",
+          "refund_status": "approved",
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-013",
+      "name": "Rachel Green",
+      "email": "rachel.g@email.com",
+      "phone": "+1-555-0113",
+      "loyalty_tier": "standard",
+      "refund_count_90d": 0,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10015",
+          "product": "Designer Sunglasses",
+          "category": "apparel",
+          "amount": 175.0,
+          "delivery_date": "2026-05-30",
+          "final_sale": false,
+          "condition_on_delivery": "worn_once",
+          "refund_status": null,
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-014",
+      "name": "Kevin Lee",
+      "email": "kevin.lee@email.com",
+      "phone": "+1-555-0114",
+      "loyalty_tier": "gold",
+      "refund_count_90d": 1,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10016",
+          "product": "Smart Watch Series X",
+          "category": "electronics",
+          "amount": 399.99,
+          "delivery_date": "2026-06-02",
+          "final_sale": false,
+          "condition_on_delivery": "sealed",
+          "refund_status": null,
+          "digital": false
+        }
+      ]
+    },
+    {
+      "customer_id": "CUST-015",
+      "name": "Patricia Moore",
+      "email": "patricia.m@email.com",
+      "phone": "+1-555-0115",
+      "loyalty_tier": "standard",
+      "refund_count_90d": 0,
+      "refund_abuse_flag": false,
+      "orders": [
+        {
+          "order_id": "ORD-10017",
+          "product": "Ceramic Dinnerware Set",
+          "category": "home_kitchen",
+          "amount": 68.0,
+          "delivery_date": "2026-06-14",
+          "final_sale": false,
+          "condition_on_delivery": "sealed",
+          "refund_status": null,
+          "digital": false
+        }
+      ]
+    }
+  ]
+}
