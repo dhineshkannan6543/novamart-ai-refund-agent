@@ -106,10 +106,10 @@ Admin Reasoning Dashboard
 ### Standard Refund Approval
 
 Customer:
-Chris Martinez
+Rachel Green
 
 Order:
-ORD-10014
+ORD-10015
 
 Result:
 Refund Approved
