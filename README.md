@@ -195,7 +195,7 @@ http://localhost:8000/docs
 
 Loom Video:
 
-[Add Loom Video Link Here]
+[https://www.loom.com/share/7013555f435c419ba2fe2bb9dd835860]
 
 ---
 
